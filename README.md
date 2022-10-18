@@ -44,7 +44,7 @@ repository.
 
 ### Praktikum
 
-1. Buatlah <b style="color: #B8E8FC;">Repository Local</b> dengan cara <i>cloning</i> dari <b style="color: #B8E8FC;">Repository Server (Git Hub)</b>. Dengan cara buka website [Git Hub](https://github.com/), dan buatlah sebuah Repository pada Website tersebut. (:bangbang: CATATAN: Harus sudah punya akun Git Hub-nya terlebih dahulu :bangbang:).
+1. Buatlah <b style="color: #B8E8FC;">Repository Local</b> dengan cara <i>cloning</i> dari <b style="color: #B8E8FC;">Repository Server (Git Hub)</b>. Dengan cara buka website [Git Hub](https://github.com/), dan buatlah sebuah Repository pada Website tersebut. (:bangbang:CATATAN: Harus sudah punya akun Git Hub-nya terlebih dahulu:bangbang:).
 ![gambar3](img/BP_P4-3.JPG)
 
 2. Kemudian ketikan perintah ```git clone [url]``` pada Git Bash sesuai dengan <b style="color: #B8E8FC;">Link URL</b> pada Repository yang kita buat tadi di Git Hub.
